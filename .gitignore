@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/hymn_db_cs/bin/Debug/net7.0
+/hymn_db_cs/obj
+/.vs
