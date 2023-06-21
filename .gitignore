@@ -5,3 +5,5 @@
 /hymn_db_cs/bin/Debug/net7.0
 /hymn_db_cs/obj
 /.vs
+/hymn_db_cs.tests/obj
+/hymn_db_cs.sln

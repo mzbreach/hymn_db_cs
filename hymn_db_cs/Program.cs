@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace hymn_ds_cs
+namespace HymnDbCS
 {
     class Program
     {
@@ -10,7 +10,17 @@ namespace hymn_ds_cs
             Console.WriteLine("Hello, World!");
         }
 
-
+        private int testFunction1(int alfalfa)
+        {
+            if(alfalfa <= 0)
+            {
+                return -1;
+            }
+            else
+            {
+                return alfalfa;
+            }
+        }
 
     }
 }
